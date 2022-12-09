@@ -4,4 +4,4 @@ Commit includes screenshots of the game and interface.
 The objective was to gather the supplies that were high in demand, find the vaccine, and 
 complete these tasks without getting COVID from the infected. For further details, please contact Preston Menke.
 
-Files to big for GitHub repo. 
+Files to large for GitHub repo. 
